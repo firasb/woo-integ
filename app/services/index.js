@@ -1,0 +1,1 @@
+module.exports.WooCommerce = require('./woocommerce');
